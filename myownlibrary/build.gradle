@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.hari.myownlib'
+    namespace 'com.hari.myownlibrary'
     compileSdk 32
 
     defaultConfig {

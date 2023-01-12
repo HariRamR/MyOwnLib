@@ -1,4 +1,4 @@
-package com.hari.myownlib
+package com.hari.myownlibrary
 
 import org.junit.Test
 
